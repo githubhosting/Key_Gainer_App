@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "625698181484",
+    "firebase_url": "https://premium-quotes-pro.firebaseio.com",
+    "project_id": "premium-quotes-pro",
+    "storage_bucket": "premium-quotes-pro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625698181484:android:25fd3376bc7e49d5cc2349",
+        "android_client_info": {
+          "package_name": "com.ymg.premiumquotespro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625698181484-ebfj1cmu1hl66e9vms3lto03vq1qmrej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByYy6R1iIRDeSpL5wkBmB4nN58vVOz8qM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625698181484-ebfj1cmu1hl66e9vms3lto03vq1qmrej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

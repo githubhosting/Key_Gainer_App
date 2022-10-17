@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "415283135291",
+    "firebase_url": "https://keygainer-admin-panel-default-rtdb.firebaseio.com",
+    "project_id": "keygainer-admin-panel",
+    "storage_bucket": "keygainer-admin-panel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415283135291:android:f21dcf19e5014193666d1e",
+        "android_client_info": {
+          "package_name": "com.ymg.premiumquotespro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415283135291-s4vtt46odoa1rdu6md8t83mooh3rq3cj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjhbg7uN9uVVgq4tmkaynqxSlrR9yetn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415283135291-s4vtt46odoa1rdu6md8t83mooh3rq3cj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
